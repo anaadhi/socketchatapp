@@ -1,4 +1,4 @@
-var socket = io("http://[2402:3a80:15e1:65a1:3882:ab6c:c8e8:388a]:3000/");
+var socket = io("http://[2402:3a80:15f1:2449:0:23:9ab2:2d01]:3000/");
 
 console.log("connected")
 
